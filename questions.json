@@ -1,0 +1,98 @@
+[
+{
+  "question": "Was ist ein Klassendiagramm?",
+  "answer": "Ein UML-Diagramm, das die statische Struktur eines Systems durch Klassen, deren Attribute, Methoden und Beziehungen darstellt."
+},
+{
+  "question": "Wozu dient ein Klassendiagramm?",
+  "answer": "Es dient der Modellierung der Datenstruktur und der Beziehungen zwischen Klassen eines Systems vor bzw. während der Implementierung."
+},
+{
+  "question": "Warum wird ein Klassendiagramm in der objektorientierten Programmierung verwendet?",
+  "answer": "Weil es die Struktur der später zu implementierenden Klassen, ihre Eigenschaften und Beziehungen unabhängig von der konkreten Programmiersprache visualisiert."
+},
+{
+  "question": "Was ist eine Klasse?",
+  "answer": "Ein Bauplan (Schablone), der die Struktur (Attribute) und das Verhalten (Methoden) von Objekten festlegt."
+},
+{
+  "question": "Wie kann eine Klasse fachlich definiert werden?",
+  "answer": "Als abstrakte Beschreibung einer Menge von Objekten mit gleichen Attributen, Methoden und Beziehungen."
+},
+{
+  "question": "Welche Bestandteile enthält eine Klasse im UML-Klassendiagramm?",
+  "answer": "Klassenname, Attribute, Methoden (jeweils in einem eigenen Bereich)."
+},
+{
+  "question": "Welche Informationen werden im oberen Bereich einer UML-Klasse angegeben?",
+  "answer": "Der Klassenname."
+},
+{
+  "question": "Welche Informationen werden im mittleren Bereich einer UML-Klasse angegeben?",
+  "answer": "Die Attribute mit Sichtbarkeit, Name und Datentyp."
+},
+{
+  "question": "Welche Informationen werden im unteren Bereich einer UML-Klasse angegeben?",
+  "answer": "Die Methoden mit Sichtbarkeit, Name, Parametern und Rückgabetyp."
+},
+{
+  "question": "Wie wird eine Klasse in einem UML-Klassendiagramm dargestellt?",
+  "answer": "Als Rechteck, unterteilt in drei Bereiche: Name, Attribute, Methoden."
+},
+{
+  "question": "Was wird aus einer Klasse erzeugt?",
+  "answer": "Ein Objekt (eine Instanz der Klasse)."
+},
+{
+  "question": "Was ist ein Objekt?",
+  "answer": "Eine konkrete Ausprägung (Instanz) einer Klasse mit eigenen, konkreten Attributwerten."
+},
+{
+  "question": "Wie hängen Klasse und Objekt zusammen?",
+  "answer": "Die Klasse definiert Struktur und Verhalten, das Objekt ist die konkrete Umsetzung (Instanz) davon."
+},
+{
+  "question": "Warum wird eine Klasse als Bauplan für Objekte bezeichnet?",
+  "answer": "Weil sie festlegt, welche Attribute und Methoden alle daraus erzeugten Objekte besitzen, ohne selbst konkrete Werte zu enthalten."
+},
+{
+  "question": "Was ist eine Instanz einer Klasse?",
+  "answer": "Ein konkretes Objekt, das nach dem Bauplan der Klasse erzeugt wurde."
+},
+{
+  "question": "Was bedeutet Instanziierung?",
+  "answer": "Der Vorgang, aus einer Klasse ein konkretes Objekt zu erzeugen."
+},
+{
+  "question": "Was ist ein Attribut?",
+  "answer": "Eine Eigenschaft (Merkmal) einer Klasse, die einen Zustand eines Objekts speichert."
+},
+{
+  "question": "Welche Aufgabe hat ein Attribut in einer Klasse?",
+  "answer": "Es speichert einen Datenwert, der den Zustand eines Objekts beschreibt."
+},
+{
+  "question": "Was ist eine Methode?",
+  "answer": "Eine Funktion einer Klasse, die das Verhalten der Objekte beschreibt bzw. Operationen auf den Attributen ausführt."
+},
+{
+  "question": "Welche Aufgabe hat eine Methode in einer Klasse?",
+  "answer": "Sie definiert, welche Aktionen ein Objekt ausführen kann bzw. wie auf seine Attribute zugegriffen wird."
+},
+{
+  "question": "Was ist eine Operation im UML-Klassendiagramm?",
+  "answer": "Ein Synonym/Oberbegriff für Methode – eine im Klassendiagramm deklarierte Funktion einer Klasse."
+},
+{
+  "question": "Was ist der Unterschied zwischen einem Attribut und einer Methode?",
+  "answer": "Ein Attribut speichert einen Wert (Zustand), eine Methode definiert ein Verhalten (Aktion)."
+},
+{
+  "question": "Was ist ein Datentyp eines Attributs?",
+  "answer": "Die Art der Daten, die das Attribut speichern kann, z. B. int, String, boolean."
+},
+{
+  "question": "Wie wird der Datentyp eines Attributs in UML angegeben?",
+  "answer": "Hinter dem Attributnamen, getrennt durch einen Doppelpunkt, z. B. `name: String`."
+}
+]
